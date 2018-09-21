@@ -1,0 +1,8 @@
+{
+  "name": "l-11",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shawwn/l-11.git",
+  "author": "Shawn Presser <shawnpresser@gmail.com>",
+  "license": "MIT"
+}
